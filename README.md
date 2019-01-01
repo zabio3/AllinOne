@@ -21,6 +21,7 @@ Here are some screen shots.
 * Syntax highlighting with highlightjs 
 * Katex for Latex
 * Google Analytics
+* Hotjar
 * Font Awesome 3.1.0
 * Built-in Tags, Series and Categories && show recomendations of the section in the sidebar
 * Built-in pagination for sections
